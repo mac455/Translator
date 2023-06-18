@@ -3,7 +3,8 @@
 Welcome to my first Python Project. 
 A Translator GUI. 
 
-It takes an expression from the user in a specified language and translates to desired language. 
+It takes an expression from the user in a specified language and translates to desired language using a simple graphical user interface.  
+I am sure there are ways to improve upon this, so please let me know what you think!
 
 <img width="295" alt="Screenshot 2023-06-18 101535" src="https://github.com/mac455/mac455.github.io/assets/136570054/95e51908-25aa-4594-9487-f217cdd43212">
 
