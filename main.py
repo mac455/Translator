@@ -1,4 +1,4 @@
-#Create virtual enviromenent, install packages 
+#First, create virtual enviromenent and install tkinter and translate package. 
 from tkinter import *
 from translate import Translator
 
